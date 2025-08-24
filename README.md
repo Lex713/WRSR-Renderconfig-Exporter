@@ -7,7 +7,7 @@ Tool to simlify creation of renderconfig files for for Workers &amp; Resources: 
 <img width="461" height="449" alt="image" src="https://github.com/user-attachments/assets/7a4d6eda-15d5-4c34-9988-6378910fb613" />
 
 3. Set your preferences for export, such as model name, material name (defaults are model.mtl and material.mtl), optional names for LOD model and emissive material (doesn't export if left empty), default flags such as usage of PLANESHADOW and REFLECTION tokens.
-4. To enable debris visualization check Destruction Vizualization" check and it will expand to allow you to edit some of default values.
+4. To enable debris visualization check Destruction Vizualization" and it will expand to allow you to edit some of default values.
 <img width="461" height="133" alt="image" src="https://github.com/user-attachments/assets/3dfdf9c3-a40f-4de5-b152-a2892a7b86e3" />
 
 5. To add lights press one of the corresponding buttons in "Add Lights" section. Lights you make will look like this in view layer outliner.

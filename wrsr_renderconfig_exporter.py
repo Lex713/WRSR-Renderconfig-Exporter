@@ -149,7 +149,7 @@ class OT_ExportINI(bpy.types.Operator, ExportHelper):
 # ---------------------------
 
 class VIEW3D_PT_GameTools(bpy.types.Panel):
-    bl_label = "Renderconfig editor"
+    bl_label = "Renderconfig Editor"
     bl_idname = "VIEW3D_PT_game_tools"
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
@@ -223,3 +223,4 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+

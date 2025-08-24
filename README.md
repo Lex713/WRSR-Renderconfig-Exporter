@@ -10,7 +10,9 @@ Tool to simlify creation of renderconfig files for for Workers &amp; Resources: 
 4. To enable debris visualization check Destruction Vizualization" check and it will expand to allow you to edit some of default values.
 <img width="461" height="133" alt="image" src="https://github.com/user-attachments/assets/3dfdf9c3-a40f-4de5-b152-a2892a7b86e3" />
 
-5. To add lights press one of the corresponding buttons in "Add Lights" section.
+5. To add lights press one of the corresponding buttons in "Add Lights" section. Lights you make will look like this in view layer outliner.
+<img width="328" height="187" alt="image" src="https://github.com/user-attachments/assets/0d45bc73-796e-4b33-85e6-6d3678d9fd0e" />
+
 6. Press "Export INI" to export your new renderconfig file
 
 
